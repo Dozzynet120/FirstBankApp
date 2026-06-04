@@ -1,0 +1,19 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">FirstBank</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your account</string>
+    <string name="username_hint">Username / Account Number</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="transfer">Transfer</string>
+    <string name="airtime">Airtime</string>
+    <string name="bills">Bills</string>
+    <string name="scan_pay">Scan &amp; Pay</string>
+</resources>

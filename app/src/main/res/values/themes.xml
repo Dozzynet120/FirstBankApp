@@ -1,0 +1,8 @@
+<!-- app/src/main/res/values/themes.xml -->
+<resources>
+    <style name="Theme.FirstBank" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/firstbank_blue</item>
+        <item name="android:navigationBarColor">@color/firstbank_blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
